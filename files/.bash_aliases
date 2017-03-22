@@ -9,6 +9,7 @@ alias root='sudo -i'
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
+alias zgrep='zgrep --color=auto'
 alias h='history | grep'
 
 alias ll='ls -la'
@@ -31,3 +32,6 @@ alias aptr='sudo apt-get remove'
 alias aptp='sudo apt-get --purge  remove'
 alias apts='apt-cache search'
 alias aptu='sudo apt-get update'
+
+# copy the current working directory to the clipboard
+alias cpwd='pwd | xclip -selection clipboard'
