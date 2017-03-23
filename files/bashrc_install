@@ -1,0 +1,11 @@
+# add text below to ~/.bashrc and copy .bash_* files to ~/ for personal commands activation
+
+# include personal aliases
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+# include personal functions
+if [ -f ~/.bash_functions ]; then
+    . ~/.bash_functions
+fi
