@@ -10,5 +10,13 @@
 #description: Interactive processes viewer
 #command: sudo apt-get install htop
 
+#package: yakuake
+#description: Terminal emulator
+#command: sudo apt-get install yakuake
+
+#package: git
+#description: Version control system
+#command: sudo apt-get install git
+
 # install all
-sudo apt-get update; sudo apt-get -y install kate htop
+sudo apt-get update; sudo apt-get -y install kate htop yakuake git
