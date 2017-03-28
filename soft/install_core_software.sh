@@ -18,5 +18,9 @@
 #description: Version control system
 #command: sudo apt-get install git
 
+#package: meld
+#description: Visual diff and merge tool
+#command: sudo apt-get install meld
+
 # install all
-sudo apt-get update; sudo apt-get -y install kate htop yakuake git
+sudo apt-get update; sudo apt-get -y install kate htop yakuake git meld
