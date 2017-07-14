@@ -1,0 +1,11 @@
+
+    These are common script commands list:
+
+    -s dir|file     Mandatory option. Path to installation source.
+
+    -l              Show list of packages in marked source.
+
+    -c              Show packages installation commands as plain text.
+
+    -h              Show script help information.
+
