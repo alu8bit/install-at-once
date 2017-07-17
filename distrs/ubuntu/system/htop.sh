@@ -1,2 +1,2 @@
 #description: Interactive processes viewer
-sudo apt-get install htop
+sudo apt-get install -y htop
