@@ -1,2 +1,2 @@
 #description: Password manager
-apt-get install -y keepass2
+sudo apt-get install -y keepass2

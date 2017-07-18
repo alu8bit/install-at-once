@@ -1,2 +1,2 @@
 #description: web browser from Mozilla
-apt-get install -y firefox
+sudo apt-get install -y firefox

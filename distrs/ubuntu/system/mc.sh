@@ -1,2 +1,2 @@
 #description: Visual shell for Unix-like systems
-apt-get install -y mc
+sudo apt-get install -y mc
